@@ -17,3 +17,7 @@ GitHub of course offers very much irreplacable service in terms of stability and
 I am not prompting trying to "overthrow" GitHub, but to have a defensive position when things get worse. I am prompting to mirror and 
 make preparations to migrate original work from GitHub in case things get out of hand, and even open-source repos need to be 
 American-censored with all the nonsense going on.
+
+# Other Translations:
+
+[Chinese](README-CN.md)
