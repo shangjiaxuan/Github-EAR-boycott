@@ -6,7 +6,7 @@ and I am prompting a boycott by preparing to migrate original open source work t
 
 ## What is new about the terms and conditions
 
-The new terms and conditions as seen [here](https://help.github.com/en/articles/github-and-export-controls) publicly acknowleges GitHub 
+The new EAR terms and conditions as seen [here](https://help.github.com/en/articles/github-and-export-controls) publicly acknowleges GitHub 
 as a US asset, and all users, regardless of where s/he actually comes from will need to comply to US export laws. Consider two 
 non-American (very likely to include open-source in the future if this nonsense continues) developers needing the US government to judge 
 their collaboration. I consider this detrimental to the international GitHub user community and sould NOT be embraced.
