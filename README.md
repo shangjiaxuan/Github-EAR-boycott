@@ -20,4 +20,4 @@ American-censored with all the nonsense going on.
 
 # Other Translations:
 
-[Chinese](README-CN.md)
+[中文(Chinese)](README-CN.md)
